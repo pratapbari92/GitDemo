@@ -23,6 +23,8 @@ public class day1 {
 	public void demo()
 	{
 		System.out.println("Hello");
+		System.out.println("Hello1");
+		System.out.println("Hello2");
 		
 		Assert.assertTrue(false);
 	}
@@ -31,6 +33,8 @@ public class day1 {
 	public void demo2()
 	{
 		System.out.println("bye");
+		System.out.println("bye1");
+		System.out.println("bye2");
 	
 	}
 	
