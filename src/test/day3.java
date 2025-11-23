@@ -26,6 +26,13 @@ public class day3 {
 		System.out.println(urlname);
 		
 	}
+@Test
+public void NewOne()
+{
+	System.out.println("newOne");
+	
+	
+}
 	@BeforeMethod
 	public void beforeEvery()
 	{
