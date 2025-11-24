@@ -19,6 +19,12 @@ public class day4 {
 	{
 		System.out.println("MobileLoginHome");
 	}
+	public void NewTwo()
+	{
+		System.out.println("newTwo");
+		
+		
+	}
 	
 	@Test(groups= {"Smoke"})
 	public void LoginAPIHomeLoan()

@@ -8,6 +8,8 @@ public class day2 {
 	public void good() {
 		
       System.out.println("good");
+      System.out.println("good1");
+      System.out.println("good2");
 	}
     
   /*  @BeforeTest
@@ -15,5 +17,13 @@ public class day2 {
     {
     	System.out.println("I will execute first this and clean Database");
     }*/
+    
+    @Test
+	public void goodnew() {
+		
+      System.out.println("good3");
+      System.out.println("good4");
+      System.out.println("good5");
+	}
 
 }
